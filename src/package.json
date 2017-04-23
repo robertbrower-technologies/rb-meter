@@ -1,9 +1,9 @@
 {
   "name": "rb-meter",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/robertbrower-technologies/rb-meter"
   },
   "author": {
     "name": "Robert Brower",
@@ -14,9 +14,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/robertbrower-technologies/rb-meter/issues"
   },
-  "module": "rb-meter.js",
+  "module": "index.js",
   "typings": "rb-meter.d.ts",
   "peerDependencies": {
     "@angular/core": "^4.0.0",

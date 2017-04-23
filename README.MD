@@ -1,5 +1,9 @@
 # rb-meter
 
+A HTML5 Canvas dashboard speedometer component for Angular.
+
+![alt tag](rb-meter.png)
+
 ## Installation
 
 To install this library, run:
@@ -10,7 +14,7 @@ $ npm install rb-meter --save
 
 ## Consuming RbMeterModule
 
-from your Angular `AppModule`:
+From your Angular `AppModule`:
 
 ```typescript
 import { BrowserModule } from '@angular/platform-browser';
